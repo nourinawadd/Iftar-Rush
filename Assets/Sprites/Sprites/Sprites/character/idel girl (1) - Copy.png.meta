@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 861b39b8bdcfee24780d6e9b18c54339
+guid: 3a0fe69cbf0b99543886fbfae83a057e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 342546474351366841
-    second: "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213655-Photoroom_0"
+      213: 3472318049672935383
+    second: idel girl (1) - Copy_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,40 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213655-Photoroom_0"
+      name: idel girl (1) - Copy_0
       rect:
         serializedVersion: 2
-        x: 279
+        x: 345
         y: 73
         width: 697
-        height: 1126
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b296ca1438f0c400800000000000000
-      internalID: 342546474351366841
+      spriteID: 7d7bee97ed6203030800000000000000
+      internalID: 3472318049672935383
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d0b6097408d046949ba87ee180773f96
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213655-Photoroom_0": 342546474351366841
+      idel girl (1) - Copy_0: 3472318049672935383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3543b47b5ae3a044e97d457314fcf6a6
+guid: b2be5daaf8560cc4dac470085b3f2729
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4018091025252255199
-    second: "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213650-Photoroom_0"
+      213: -4739042300322974265
+    second: idel1 (right)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,40 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213650-Photoroom_0"
+      name: idel1 (right)_0
       rect:
         serializedVersion: 2
-        x: 279
+        x: 304
         y: 73
         width: 697
-        height: 1126
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 1093
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12a77a4508fdc38c0800000000000000
-      internalID: -4018091025252255199
+      spriteID: 7c5f2b9e22a8b3eb0800000000000000
+      internalID: -4739042300322974265
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 648793ae401a27b4d9ac8045e2842806
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213650-Photoroom_0": -4018091025252255199
+      idel1 (right)_0: -4739042300322974265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

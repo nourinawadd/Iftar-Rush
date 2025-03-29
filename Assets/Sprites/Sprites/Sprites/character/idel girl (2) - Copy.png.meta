@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4eceadfca0217b841838c60e40fb9538
+guid: 6d5345a45b37c764dae3b0175abec098
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4988359312793716824
-    second: "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213647-Photoroom_0"
+      213: -4204709614413889625
+    second: idel girl (2) - Copy_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,40 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213647-Photoroom_0"
+      name: idel girl (2) - Copy_0
       rect:
         serializedVersion: 2
-        x: 279
+        x: 345
         y: 73
         width: 697
-        height: 1126
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 994
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 858c4139d563a3540800000000000000
-      internalID: 4988359312793716824
+      spriteID: 7afb03912eed5a5c0800000000000000
+      internalID: -4204709614413889625
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: efca445ef9f3b2f4bbde86c8afa69e58
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\u0628\u062F\u0648\u0646 \u0627\u0633\u0645263_20250327213647-Photoroom_0": 4988359312793716824
+      idel girl (2) - Copy_0: -4204709614413889625
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
